@@ -127,8 +127,8 @@ These instructions will get you a copy of the project up and running on your loc
 For building the project you need only a [GCC](https://gcc.gnu.org).
 
 ```bash
-$> git https://github.com/infobip/fpn-module
-$> cd fpn-module
+$> git https://github.com/infobip/redis-fpn
+$> cd redis-fpn
 ```
 
 ### Building
@@ -160,7 +160,7 @@ Please read [contributing](./CONTRIBUTING.md) file for details on my code of con
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/infobip/fpn-module/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/infobip/redis-fpn/tags).
 
 ## Authors
 
