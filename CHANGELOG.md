@@ -70,5 +70,6 @@ Minor fixes and improvements.
 Initial release.
 
 ### Added
+
 - Decimal data type;
 - Basic set of commands.
