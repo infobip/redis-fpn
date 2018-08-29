@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 - Implement `FPN.DIVIDE` functions;
-- Add unit tests.
+- Add unit tests durign build.
 
 ## **1.1.8** - 2018-08-28
 
